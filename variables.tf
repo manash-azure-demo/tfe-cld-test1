@@ -7,7 +7,7 @@ variable "subscription_id" {
 variable "resource_group_name" {
   type        = string
   description = "Name of the existing resource group"
-  default     = "rg_sb_eastus_221777_1_172605549857"  # Your resource group name
+  default     = "rg_sb_eastus_221777_1_172621721019"  # Your resource group name
 }
 
 variable "admin_username" {
